@@ -9,12 +9,27 @@ passive layer (negative stiffness module) → active layer (6x VCA) → sensing 
 
 ## Current status: 
 - servo prototype
-- machined VCA
+- design of VCA with integrated LVDT
+- machined VCA and LVDT
+
+## Immediate steps:
+- wounding of the machined parts with appropriate wire
+- testing all the required parameters of the VCA and LVDT 
+- building a 1 DOF vibration isolation system with the current VCA and LVDT prototype
 
 ## Repo structure:
 
-## Where to start
+## Where to start:
+A vibration isolation platform would involve a base plate that is exposed to the vibrations and a top one that stays stable throughout (isolates the vibrations). The system that transcends between the both plates is where the actual engineering comes in play.
+To begin understanding the project, we can start with understanding the basis of a stewart platform. The basic premise of a stewart platform involves a parallel manipulator that uses six linear actuators to attain 6 DOF. To make a vibration isolation platform, each leg of the platform is planned to be structured as follows: passive layer (negative stiffness module) → active layer → sensing for closed feedback loop (LVDT). 
+Each layer is further explained in its respective folder of the repo.
 
 ## Hardware inventory:
+1. machined parts - innovation lab (C06)
+2. ferrite rods - innovation lab (C06): 9, IPTIF (D03): 1
+3. linear bearings - innovation lab (C06): 2, B03: 4
+4. magnets - innovation lab (C06): 1, B03: rest
+5. piston - innovation lab (C06): 1
+6. off the shelf VCA (mounted) - innovation lab (C06)
 
 ## Key references:
