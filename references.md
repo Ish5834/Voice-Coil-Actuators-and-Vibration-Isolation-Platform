@@ -41,5 +41,5 @@
 
 ## Stewart Platform
 
-- [Inverse kinematics of a Stewart platform — Albert Castellanos, Universitat de Girona]() *(no public URL; add if available)*
+- [Inverse kinematics of a Stewart platform — Albert Castellanos, Universitat de Girona]() *(no public URL)
 - [Stewie the Stewart platform — build reference](https://olearyfrances.com/stewie-the-stewart-platform)
