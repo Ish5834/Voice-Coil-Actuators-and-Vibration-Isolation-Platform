@@ -32,5 +32,3 @@ Each layer is further explained in its respective folder of the repo.
 4. magnets - innovation lab (C06): 1, B03: rest
 5. piston - innovation lab (C06): 1
 6. off the shelf VCA (mounted) - innovation lab (C06)
-
-## Key references:
