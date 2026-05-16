@@ -16,7 +16,7 @@ passive layer (negative stiffness module) → active layer (6x VCA) → sensing 
 - wounding of the machined parts with appropriate wire
 - testing all the required parameters of the VCA and LVDT 
 - building a 1 DOF vibration isolation system with the current VCA and LVDT prototype
-- trying prototype stewart platform with linear actuators
+- try to prototype stewart platform with linear actuators
 
 ## Repo structure:
 
