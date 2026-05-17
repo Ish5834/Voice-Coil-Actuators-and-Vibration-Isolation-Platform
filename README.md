@@ -19,12 +19,12 @@ passive layer (negative stiffness module) → active layer (6x VCA) → sensing 
 - try to prototype stewart platform with linear actuators
 
 ## Repo structure:
-/active isolation --- brief overview of active layer
-/VCA - working principle --- explanation of VCA
-/LVDT - working principle --- explanation of LVDT
-/QZS --- research summary of QZS
-/current design --- notes about current design
-/references
+- /active isolation --- brief overview of active layer
+- /VCA - working principle --- explanation of VCA
+- /LVDT - working principle --- explanation of LVDT
+- /QZS --- research summary of QZS
+- /current design --- notes about current design
+- /references
 
 ## Where to start:
 A vibration isolation platform would involve a base plate that is exposed to the vibrations and a top one that stays stable throughout (isolates the vibrations). The system that transcends between the both plates is where the actual engineering comes in play.
